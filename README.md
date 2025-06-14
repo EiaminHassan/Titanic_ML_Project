@@ -43,3 +43,9 @@ This project uses the famous Titanic dataset from [Kaggle](https://www.kaggle.co
 |---------------------|----------|------------------|
 | Logistic Regression | 0.82     | 0.81             |
 | Random Forest       | 0.84     | 0.80             |
+
+## 🧑‍💻 Author
+
+**Eiamin Hassan**  
+📧 shanto15-5251@diu.edu.bd  
+🌐 [LinkedIn](https://www.linkedin.com/in/eiamin-hassan-shanto-ba326b361/)  
